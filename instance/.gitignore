@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+ENV/
+build/
+dist/
+
+# Flask/Django style instances & local data
+instance/
+*.sqlite3
+db.sqlite3
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
