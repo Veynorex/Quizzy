@@ -1,2 +1,2 @@
 # Quizzy
-Quiz web-app for a classroom with AI assistant
+Simple quiz web-app backend
